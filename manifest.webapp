@@ -1,0 +1,20 @@
+{
+  "version": "0.1",
+  "name": "CampusFlappyFox",
+  "description": "Campus Flappy Fox",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/assets/icon.png"
+  },
+    "developer": {
+    "name": "Ricardo Zandonai",
+    "url": "https://www.facebook.com/ricardo.zandonai"
+  },
+  "type": "privileged",
+  "permissions": {
+    "audio-capture": {
+      "description": "pra buscar a musica local"
+    }
+    },
+	"orientation": "portrait"
+}
